@@ -1,6 +1,6 @@
-clear all;
-close all;
-clc;
+clear
+close all
+clc
 
 L=15;
 N=500; %% points in space

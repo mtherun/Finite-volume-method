@@ -1,2 +1,2 @@
 # Finite-volume-method
-Contains files for a simple simulation of finite volume method used in transport equation
+Contains files for a simple simulation of finite volume method 
